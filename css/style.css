@@ -1,0 +1,16 @@
+
+  
+    * {
+        padding: 0px;
+        margin: 0px;
+        box-sizing: border-box;
+    }
+
+
+.h{
+    background-color: rgb(200, 210, 59);
+    width: 100%;
+    height: 20vh;
+    text-align: center;
+    font-size: 30px;
+}
